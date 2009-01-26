@@ -9,4 +9,9 @@ But if you want to customize this for your own use, feel free! You'll
 need to add your Flickr and Technorati API keys to the hello.cgi file.
 Also, you need to install the LWP Perl module for this to work.
 
+NOTE: In order to display colors on the YBox2, some of the strings in 
+these files have embedded control characters. These might make your 
+terminal beep or your text editor behave funny. 
 
+RELATED TODO: replace embedded control characters with explicit calls
+to chr() as appropriate.
