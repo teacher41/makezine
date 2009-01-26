@@ -1,0 +1,12 @@
+Brian Jepson's YBox2 InfoWidget backend as described in:
+
+http://blog.makezine.com/archive/2008/06/ybox2_web20_dashboard_at.html
+
+If you want, you can follow the instructions on the blog and use the
+hosted version on my web site.
+
+But if you want to customize this for your own use, feel free! You'll 
+need to add your Flickr and Technorati API keys to the hello.cgi file.
+Also, you need to install the LWP Perl module for this to work.
+
+
